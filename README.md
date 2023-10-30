@@ -1,8 +1,11 @@
+# Week-10d
+Tugas Artificial Intelligent and Aplication Week 10
+
 Nama		: Almas Diqya Wafa’
 NIM		: 5311421005
 Prodi		: Teknik Elektro
-Mata Kuliah	: Artificial Intellegent and Aplication
-Rombel	: Senin 09.00
+Mata Kuliah            	: Artificial Intellegent and Aplication
+Rombel	            : Senin 09.00
 
 MODUL 4
 “Teknik Pencarian Blind Search”
